@@ -1,2 +1,2 @@
-# portfoliowebsite
-portfolio website code
+# Portfolio Website
+Code for portfolio website
