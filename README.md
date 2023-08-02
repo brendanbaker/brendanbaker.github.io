@@ -1,2 +1,2 @@
 # Portfolio Website
-Code for [portfolio website](brendanbaker.github.io)
+Code for [portfolio website](https://brendanbaker.github.io/)
